@@ -1,0 +1,13 @@
+Recursion là một kĩ thuật theo hướng một phương pháp thực hiện một hoặc nhiều lần gọi tới chính nó trong suốt quá trình thực thi,
+or theo hướng một data structure dựa vào các khởi tạo nhỏ hơn của các kiểu giống nhau in đại diện của no.
+1. Các function giai thừa là một phép toán cổ điển là một định nghĩa đệ quy tự nhiên.
+2. An English ruler has a recursive pattern that is a simple example of a fractal.
+3. Binary search is among the most important computer algorithms. It allows us to efficiently locate a desired value
+in a data set with upwards of billions of entries.
+
+
+
+
+
+Binary search is among the most important computer algorithms.
+It allows us to efficiently locate a desired value in a data set with upwards of billions of entries.
